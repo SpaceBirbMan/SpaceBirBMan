@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student programmer. I know several languages, but am I useful as a professional? :sweat_smile:
+
+[![Skills](https://skillicons.dev/icons?i=git,py,java,cpp,html,css,js,php,postgres,pytorch,sqlite,tensorflow,flutter,dart&perline=5)](https://skillicons.dev)
+
+> [!NOTE]
+> I don't know all above displayed things on 100%, maybe not even 50%.
